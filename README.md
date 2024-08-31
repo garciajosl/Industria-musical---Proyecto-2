@@ -80,5 +80,6 @@ Lo siguiente que se hizo ya para el final fue unir las data set en una sola y as
 
 2- Luego hice un conteo de la cantidad de canciones que se lanzaron por año, en el cual obtuve que en el   2023 se lanzaron 176 canciones y en el 2022 413 siendo este el mas alto.
 
-3- el siguiente es una tabla y un gráfico para saber cuántas canciones habían sido feat y cuantas un solo y así sacar mis conclusiones de que es lo mejor para el nuevo artista.
+3- Realice una tabla y un gráfico para saber cuántas canciones habían sido feat y cuantas un solo y así sacar mis conclusiones de que es lo mejor para el nuevo artista.
 
+# Medidas de tendencia central y de dispersión
